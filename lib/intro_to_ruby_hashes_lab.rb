@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
- 
+  drake_hash = {"song" => "childs play", "artist" => "drake"}
 end
 
 def pioneer
