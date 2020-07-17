@@ -12,5 +12,5 @@ end
 
 
 def id_hash_generator(number)
- has = {id: "#{number}"
+ has = {id: number}
 end
